@@ -30,19 +30,19 @@ Minimum requirements:
          **python CMPE273\Lab01\python-http\service-b\app.py**
    # success + failure proof (curl output or screenshot)
       Terminal outputs:
-         ![Terminal_Output_A](./imgs/TerminalOutputs_A.png)
-         ![Terminal_Output_B](./imgs/TerminalOutputs_B.png)
+![Terminal_Output_A](./imgs/TerminalOutputs_A.png)
+![Terminal_Output_B](./imgs/TerminalOutputs_B.png)
 
       Service Healths:
-         ![Service_A_Health](./imgs/ServiceA_Health.png)
-         ![Service_B_Health](./imgs/ServiceB_Health.png)
+![Service_A_Health](./imgs/ServiceA_Health.png)
+![Service_B_Health](./imgs/ServiceB_Health.png)
       
       Service Echos(Both Running):
-         ![Service_A_Echo1](./imgs/HelloFromA1.png)
-         ![Service_B_Echo1](./imgs/HelloFromB1.png)
+![Service_A_Echo1](./imgs/HelloFromA1.png)
+![Service_B_Echo1](./imgs/HelloFromB1.png)
       
       Service Echos(Only B Running):
-         ![Service_A_Echo2](./imgs/HelloFromA2.png)
-         ![Service_B_Echo2](./imgs/HelloFromB2.png)
+![Service_A_Echo2](./imgs/HelloFromA2.png)
+![Service_B_Echo2](./imgs/HelloFromB2.png)
 
    # 1 short paragraph: “What makes this distributed?”
