@@ -9,6 +9,7 @@ app = Flask(__name__)
 def health():
     return jsonify(status="ok")
 
+
 @app.get("/echo")
 def echo():
     start = time.time()
