@@ -26,7 +26,8 @@ python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. inventory.pro
 6) Evidence of gRPC deadline handling.
 ![GRPC Timeout Handling](imgs/GRPCDelay.png)
 
-7)  Evidence that the Order Service remains running after the failures
+7)  Evidence that the Order Service remains running after the failures:
+
     Evidence Case 1, setting Delay True for Rest only & testing GRPC
     ![Evidence 1](imgs/EVD1.png)
     Evidence Case 2, setting Delay True for gRPC only & testing Rest
